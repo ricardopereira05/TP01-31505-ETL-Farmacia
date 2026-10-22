@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<clientes>
+<cliente><id>1</id> <nome>Joao Silva</nome> <email>joaosilva@gmail.com</email></cliente>
+<cliente><id>2</id> <nome>Maria Costa</nome> <email>maria.costa@hotmail.com</email></cliente>
+<cliente><id>3</id> <nome>Pedro Santos</nome> <email>pedro.santos@outlook.com</email></cliente>
+<cliente><id>4</id> <nome>Ana Ferreira</nome> <email>ana.ferreira@gmail.com</email></cliente>
+<cliente><id>5</id> <nome>Carlos Rocha</nome> <email>carlos@email</email></cliente>
+<cliente><id>6</id> <nome>Sofia Martins</nome> <email>sofia.martins@gmail.com</email></cliente>
+<cliente><id>7</id> <nome>Miguel Lopes</nome> <email>miguel.lopes@outlook.com</email></cliente>
+<cliente><id>8</id> <nome>Rita Alves</nome> <email>rita.alves@gmail.com</email></cliente>
+<cliente><id>9</id> <nome>Tiago Sousa</nome> <email>tiago.sousa@hotmail.com</email></cliente>
+<cliente><id>10</id> <nome>Paula Gomes</nome> <email>paula.gomes@gmail.com</email></cliente>
+<cliente><id>11</id> <nome>Andre Ribeiro</nome> <email>andre.ribeiro@outlook.com</email></cliente>
+<cliente><id>12</id> <nome>Carla Dias</nome> <email>carla.dias@gmail.com</email></cliente>
+<cliente><id>13</id> <nome>Luis Teixeira</nome> <email>luis.teixeira@hotmail.com</email></cliente>
+<cliente><id>14</id> <nome>Sandra Melo</nome> <email>sandra.melo@gmail.com</email></cliente>
+<cliente><id>15</id> <nome>Vitor Pires</nome> <email>vitor.pires@outlook.com</email></cliente>
+<cliente><id>16</id> <nome>Nuno Oliveira</nome> <email>nuno.oliveira@gmail.com</email></cliente>
+<cliente><id>17</id> <nome>Patricia Cruz</nome> <email>patricia.cruz@hotmail.com</email></cliente>
+<cliente><id>18</id> <nome>Diana Reis</nome> <email>diana.reis@gmail.com</email></cliente>
+<cliente><id>19</id> <nome>Bruno Cardoso</nome> <email>bruno.cardoso@outlook.com</email></cliente>
+<cliente><id>20</id> <nome>Marta Pinto</nome> <email>marta.pinto@gmail.com</email></cliente>
+</clientes>
