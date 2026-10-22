@@ -1,0 +1,21 @@
+id,nome,categoria,preco,stock,fornecedor_id
+1,Paracetamol,Analgesico,3.50,120,1
+2,Brufen,AntiInflamatorio,5.20,80,2
+3,Benuron,Analgesico,2.90,200,1
+4,Voltaren,AntiInflamatorio,7.50,35,2
+5,Nurofen,AntiInflamatorio,6.75,50,2
+6,Compensan,Digestivo,8.90,40,3
+7,Rennie,Digestivo,4.30,60,3
+8,Mucosolvan,Xarope,7.20,30,4
+9,Bisolvon,Xarope,6.80,25,4
+10,Cegripe,Gripe,5.60,70,5
+11,Bepanthene,Dermatologico,9.90,45,6
+12,Fenistil,Alergias,8.50,90,6
+13,Zyrtec,Alergias,10.20,75,6
+14,Imodium,Digestivo,7.80,40,3
+15,Strepsils,Garganta,4.50,110,5
+16,Nasex,Nasal,11.50,55,5
+17,Vicks Vaporub,Gripe,6.20,85,5
+18,Betadine,Desinfetante,5.90,95,7
+19,Agua Oxigenada,Desinfetante,2.50,130,7
+20,Termometro,Equipamento,12.90,20,8
